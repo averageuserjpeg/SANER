@@ -1,6 +1,6 @@
 
 PLEASE LET ME INTO ISEF BRUH
-vibecoded because i SUCK
+- vibecoded because i SUCK
 
 fire update log im starting bc this shit is starting to get confusing
 DD/MM/YY
