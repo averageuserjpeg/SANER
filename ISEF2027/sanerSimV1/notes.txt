@@ -1,0 +1,8 @@
+may 31, 2026
+--
+TODO
+sim only 4 now :)
+> make maze have no dead ends 
+> work on hemodynamics / bloodflow
+> add target zone  
+> start the pinn? 
