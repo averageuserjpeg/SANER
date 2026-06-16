@@ -17,3 +17,4 @@ DD/MM/YY
 - there are occasions where it gets stuck, due to the electromagnets being not precise enough (theyre too big), causing the nanoparticles to get stuck on walls
 - waypoint also always spawns on the node closest to the middle of the electromagnet, causing failure loops if the nanoparticles get stuck (idk really how to explain it here)
 - it is almost time to buy parts soon!
+- no hemodynamix yet cuz the vascular genny is not closed loop :( ill just build a pump irl i guess
