@@ -1,6 +1,6 @@
 
-PLEASE LET ME INTO ISEF BRUH
-- vibecoded because i SUCK
+I WANT ISEF QUALS
+- vibecoded because i SUCK and DONT KNOW HOW TO MAKE PHYSICS ENGINES YET
 
 fire update log im starting bc this shit is starting to get confusing
 DD/MM/YY
