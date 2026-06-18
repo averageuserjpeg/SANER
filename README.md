@@ -18,3 +18,8 @@ DD/MM/YY
 - waypoint also always spawns on the node closest to the middle of the electromagnet, causing failure loops if the nanoparticles get stuck (idk really how to explain it here)
 - it is almost time to buy parts soon!
 - no hemodynamix yet cuz the vascular genny is not closed loop :( ill just build a pump irl i guess, so i dont have to deal with pesky closed loop generation
+
+17/6/2026 11:16PM
+- alpha finished, will add more heads later
+- will critique and tweak for biological accuracy later
+- i should start doing data collection, too
